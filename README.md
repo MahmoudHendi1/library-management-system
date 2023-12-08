@@ -55,7 +55,7 @@ $ npm run start:prod
 
 ## Database Schema
 
-![Alt text](relative%20database_schema.png?raw=true 'Title')
+![database_schema](https://github.com/MahmoudHendi1/library-management-system/assets/51229687/74bf09b5-b443-4c4d-b852-d5896fb4088f)
 
 ## Test
 
